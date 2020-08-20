@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "bcrypt": "^3.0.3",
+    "bcrypt": "^5.0.0",
     "express": "^4.16.4",
     "http": "0.0.0",
     "mongoose": "^5.4.5",
